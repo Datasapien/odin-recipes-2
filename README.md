@@ -1,2 +1,1 @@
-# odin-recipes-2
-Another attempt at Odin Recipes, to refresh my memory of creating and using GitHub repositories.
+The HTML is basic, but refreshing my memory on how to commit to GitHub

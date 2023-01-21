@@ -1,0 +1,44 @@
+* {
+    font-family: monospace;
+    line-height: 1.5em;
+}
+
+a {
+    text-decoration: none;
+    color: #23B5D3;
+}
+
+a:hover {
+    text-decoration: underline;
+    color:#279AF1;
+}
+
+figure {
+    display: flex;
+}
+
+div {
+    display: flex;
+}
+
+img {
+    max-width: 300px;
+    height: auto;
+    justify-content: center;
+    border: 5px solid #23B5D3;
+}
+
+h1 {
+    background-color: #ea526f;
+    text-align:center;
+    margin: 20px 0px 20px 0px;
+    padding: 20px 0px 20px 0px;
+    font-size: 3rem;
+}
+
+ul.recipes {
+    text-align: center;
+    list-style: none;
+    font-size: 150%;
+    background-color: #F7f7ff;
+}
